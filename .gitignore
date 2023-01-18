@@ -1,0 +1,7 @@
+*.f90
+*.dot
+*.pdf
+# Ignorar la carpeta Gramatica que contiene archivos generados por ANTLR
+/Fortran_Analyzer/src/Gramatica
+# Ignorar la carpeta out generada por Intellij al compilar el proyecto
+/Fortran_Analyzer/out
